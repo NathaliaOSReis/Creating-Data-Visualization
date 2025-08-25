@@ -37,6 +37,20 @@ No e-mail enviado ao Hugo, o cliente solicitou um painel que incluísse:
 -  perdas com sinistros, despesas por linha de negócios e/ou produto e KPIs.
 - O público é de nível executivo, mas parece que os gerentes também podem usar o painel, já que estão solicitando filtros mais detalhados.
 
-#### 6. Etapa: Questões para perguntar
+#### 6. Etapa: Perguntas a serem feitas
 
 ![Contexto,audiencia e objetivo](questions_to_ask.jpg)
+
+#### Perguntas a serem feitas:
+
+- Verificar o público – executivos e gerentes?
+- Quais dados específicos são importantes para ajudá-los a tomar decisões?
+- Como eles usam os dados para tomar decisões?
+- Como eles imaginam que o painel ajudará?
+
+
+#### O público usará as informações para (precisa verificar):
+
+- Tomar decisões sobre ofertas de planos em mercados
+- Identificar se linhas de negócios específicas apresentam tendências de perdas ou ganhos por região
+- Tomar decisões para retirar serviços de um mercado
