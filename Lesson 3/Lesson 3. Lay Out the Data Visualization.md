@@ -1,0 +1,1 @@
+Na Lição 3 – Esquematize a visualização de dados, você praticará como direcionar a atenção para o público-alvo (executivo, departamental e analista) e garantirá que os elementos de design sejam apropriados na sua visualização de dados.

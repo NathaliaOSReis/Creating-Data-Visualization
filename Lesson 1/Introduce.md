@@ -1,0 +1,3 @@
+As visualizações de dados que você cria precisam atender aos objetivos do seu público. Portanto, antes de começar a criar qualquer visualização de dados, você precisa ter uma compreensão clara do seu contexto, público e objetivo. Esses elementos devem moldar a forma como você cria sua visualização de dados para garantir que ela esteja alinhada às necessidades do cliente.
+
+Nesta lição, você receberá um guia de tarefa e será apresentado a um cenário no qual Hugo, um funcionário da EY, tenta coletar informações sobre o contexto, o público e o objetivo de um projeto de dashboard usando as estratégias apresentadas no guia de tarefa.

@@ -1,0 +1,1 @@
+Na Lição 2 – Identificar tipos visuais apropriados, você praticará como selecionar os tipos visuais apropriados para uma visualização de dados.
